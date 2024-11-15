@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c498a56-110f-4f84-83a1-0cebf7826f37" name="Changes" comment="добавил кнопку загрузки нового изображения">
+    <list default="true" id="3c498a56-110f-4f84-83a1-0cebf7826f37" name="Changes" comment="добавил контроль размера изображения">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/9.1.API and Cats.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.1.API and Cats.py" afterDir="false" />
     </list>
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731650950869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавил контроль размера изображения">
+      <option name="closed" value="true" />
+      <created>1731651811703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731651811703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +164,7 @@
     <MESSAGE value="создал окно и виджеты" />
     <MESSAGE value="создал функцию получения изображения" />
     <MESSAGE value="добавил кнопку загрузки нового изображения" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил кнопку загрузки нового изображения" />
+    <MESSAGE value="добавил контроль размера изображения" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил контроль размера изображения" />
   </component>
 </project>
