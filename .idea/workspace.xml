@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c498a56-110f-4f84-83a1-0cebf7826f37" name="Changes" comment="создал файл">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3c498a56-110f-4f84-83a1-0cebf7826f37" name="Changes" comment="создал окно и виджеты">
       <change beforePath="$PROJECT_DIR$/9.1.API and Cats.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.1.API and Cats.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731646449552</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="создал окно и виджеты">
+      <option name="closed" value="true" />
+      <created>1731648328960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731648328960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="создал файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал файл" />
+    <MESSAGE value="создал окно и виджеты" />
+    <option name="LAST_COMMIT_MESSAGE" value="создал окно и виджеты" />
   </component>
 </project>
